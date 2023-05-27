@@ -1,3 +1,8 @@
+body{
+    margin-left: 30px;
+    font-size: 5px;
+    
+}
 p{
     color:#006400;
     
@@ -15,5 +20,7 @@ p{
 h1{
     color: pink;
     font-size: 40px;
-    
+    margin-left: 30px;
+
+
 }
